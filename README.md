@@ -1,0 +1,2 @@
+# Sports-Management-System-NITC
+The motto behind this project is to offer a digitalized solution to the ongoing data entry process in physical education dept. This is a small attempt to replace the above mentioned traditional process so that users will consume less amount of time when compared to manual paper work through the automated system. Data storing and retrieval would then become convenient for both students and administration. The system will be able to check any report at any time.
